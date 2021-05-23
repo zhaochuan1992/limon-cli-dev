@@ -1,0 +1,19 @@
+{
+  "name": "@limon-cli-dev/utils",
+  "version": "1.0.0",
+  "description": "limon-cli-dev utils",
+  "author": "NBMAN <857296447@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/utils.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
