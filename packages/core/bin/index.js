@@ -1,3 +1,3 @@
 #! /user/bin/env node
 
-console.log("dddd");
+console.log("ddddddddddd");
